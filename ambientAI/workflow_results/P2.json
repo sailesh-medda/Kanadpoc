@@ -1,0 +1,14 @@
+{
+  "detailed_report": {
+    "result": "",
+    "timestamp": "2026-03-12T06:33:29.859821"
+  },
+  "sop_report": {
+    "result": "",
+    "timestamp": "2026-03-12T06:33:29.866771"
+  },
+  "icd_cpt_codes": {
+    "result": "### Patient ID: Not provided\n\n---\n\n### ICD-10 Codes\n\n| **Code** | **Description**                                |\n|----------|------------------------------------------------|\n| G44.1    | Vascular headache, not elsewhere classified    |\n| R42      | Dizziness and giddiness                        |\n\n### CPT Codes\n\n| **Code** | **Description**                                |\n|----------|------------------------------------------------|\n| 99213    | Established patient office visit, low medical decision complexity |\n\n---\n\n### Notes\n- The chief complaint was a headache occurring for one week, characterized as a dull pressure in the frontal area, associated with intermittent dizziness.\n- Although no specific tests were discussed, the provider indicated the need to rule out common causes of headaches.\n- Additional demographic and historical information is needed for further coding accuracy.",
+    "timestamp": "2026-03-12T06:33:29.872999"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "detailed_report": {
+    "result": "",
+    "timestamp": "2026-03-12T06:26:47.668023"
+  },
+  "sop_report": {
+    "result": "",
+    "timestamp": "2026-03-12T06:26:47.675103"
+  },
+  "icd_cpt_codes": {
+    "result": "### Patient ID: Not provided\n\n#### ICD-10 Codes\n| **Code** | **Description**                     |\n|----------|-------------------------------------|\n| G44.1    | Vascular headache, not elsewhere classified (e.g., tension-type headache) |\n| R42      | Dizziness and giddiness             |\n\n#### CPT Codes\n| **Code** | **Description**                     |\n|----------|-------------------------------------|\n| Code not determined \u2013 insufficient detail | Specific procedures or tests not documented. |\n\n### Summary:\n- **Diagnosis**: The primary diagnoses are likely tension-type headaches (G44.1) and dizziness (R42) based on the presented symptoms.\n- **Procedures**: No specific procedures or tests were ordered within the documented conversation; hence a CPT code cannot be determined.\n- The encounter lacks detailed information about patient demographics, past medical history, and specific diagnostic tests planned, which limits the coding accuracy. \n\nFor proper follow-up and coding, it is essential to gather comprehensive details regarding any tests to be run and further evaluations indicated.",
+    "timestamp": "2026-03-12T06:26:47.683434"
+  }
+}
